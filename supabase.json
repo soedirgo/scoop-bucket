@@ -1,0 +1,22 @@
+{
+    "version": "0.1.5",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/soedirgo/test/releases/download/v0.1.5/supabase_0.1.5_windows_386.tar.gz",
+            "bin": [
+                "supabase.exe"
+            ],
+            "hash": "f867d07c7cb6444e4d8bcaf79da4d7f6fdcda89615d38f28d8e018dfe0708b74"
+        },
+        "64bit": {
+            "url": "https://github.com/soedirgo/test/releases/download/v0.1.5/supabase_0.1.5_windows_amd64.tar.gz",
+            "bin": [
+                "supabase.exe"
+            ],
+            "hash": "10dd88e26a3eb8f33566ef9f8ebde77ddf916f746d4e5877862aa534e0f10be3"
+        }
+    },
+    "homepage": "https://supabase.io",
+    "license": "MIT",
+    "description": "Supabase CLI"
+}
