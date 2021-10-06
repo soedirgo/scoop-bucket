@@ -1,19 +1,19 @@
 {
-    "version": "0.1.6",
+    "version": "0.1.9",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/soedirgo/test/releases/download/v0.1.6/supabase_0.1.6_windows_386.tar.gz",
+            "url": "https://github.com/soedirgo/test/releases/download/v0.1.9/supabase_0.1.9_windows_386.tar.gz",
             "bin": [
                 "supabase.exe"
             ],
-            "hash": "09ad7a28a6bcbe18bdd618a85154866fc8302d49bead74b658c62502fe834e0b"
+            "hash": "d102ec66c3779258625f35a8795f580858389dc79b78836235a879a1086e8018"
         },
         "64bit": {
-            "url": "https://github.com/soedirgo/test/releases/download/v0.1.6/supabase_0.1.6_windows_amd64.tar.gz",
+            "url": "https://github.com/soedirgo/test/releases/download/v0.1.9/supabase_0.1.9_windows_amd64.tar.gz",
             "bin": [
                 "supabase.exe"
             ],
-            "hash": "4f5dca3b5b91fa4b1f766e63ac5961ad877930d47440b15941e99a0a436780e6"
+            "hash": "558fc12eb1978914d1c5da4bb9710a28d7cca49a7f0c238d4f4cdb0f27fa876a"
         }
     },
     "homepage": "https://supabase.io",
